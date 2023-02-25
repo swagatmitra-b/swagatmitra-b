@@ -22,7 +22,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55px"/>][repo]&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55px"/>][repo]&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg " style="background:white; border-radius:7px" height="55px"/>][repo]&nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55px"/>][repo]&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="55px"/>][repo]&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55px"/>][repo]&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55px" style="background:lightgray;border-radius:7px"/>][repo]&nbsp;
