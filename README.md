@@ -2,7 +2,7 @@
 
 ##### *I'm currently a sophomore at the National Institute of Technology Silchar. I'm interested in Web Development, Machine Learning and the IoT domain. I love learning and contributing to open source. You're always welcome to reach out to me.*
 ---
-### Contact Me 🐬:
+### Connect with Me 🐬:
 
 <br>
 
