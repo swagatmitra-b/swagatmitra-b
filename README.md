@@ -7,7 +7,9 @@
 ,
 <span style="color:red">Machine Learning</span>
 and the 
+
 <span style="color:magenta">IoT domain</span>
+
 . I love learning and contributing to open source. You're always welcome to reach out to me!*
 
 ---
