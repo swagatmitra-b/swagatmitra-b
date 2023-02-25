@@ -1,6 +1,6 @@
 ### About Me 🙋‍♂️ : 
 
-##### *I'm currently a sophomore at the National Institute of Technology Silchar. I'm interested in Web Development, Machine Learning and the IoT domain. I love learning and contributing to open source. You're always welcome to reach out to me.*
+##### *I'm a freshman at the National Institute of Technology Silchar. I'm interested in Web Development, Machine Learning and the IoT domain. I love learning about computers and electronics and I'm really looking forward to making significant open source contributions. You're always welcome to reach out to me.*
 ---
 ### Connect with Me 🐬:
 
@@ -13,7 +13,6 @@
 
 [twitter]: https://twitter.com/swagatmitra
 [linkedin]: https://in.linkedin.com/in/swagatmitra-bhattacharya-572048254
-[repo]: https://github.com/swagatmitra-b
 
 
           
