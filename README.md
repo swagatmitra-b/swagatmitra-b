@@ -2,10 +2,14 @@
 
 ### About Me 🙂 : 
 
-*I'm currently a sophomore at the National Institute of Technology Silchar. I'm interested in 
+*I'm currently a sophomore at the National Institute of Technology Silchar. I'm interested in
+
 <span style="color:lightgreen">Web Development </span>
+
 ,
+
 <span style="color:red">Machine Learning</span>
+
 and the 
 
 <span style="color:magenta">IoT domain</span>
