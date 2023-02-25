@@ -1,15 +1,15 @@
 ## **Hello, I'm Swagatmitra Bhattacharya 🙋‍♂️**
 
----
-
 ### About Me 🙂 : 
 
 *I'm currently a sophomore at the National Institute of Technology Silchar. I'm interested in <span style="color:lightgreen">Web Development</span>, <span style="color:red">Machine Learning</span> and the <span style="color:magenta">IoT domain</span>. I love learning and contributing to open source. You're always welcome to reach out to me!*
 
 ---
 
-### Languages, Frameworks/Libraries and Tools I work with 🧑‍💻: 
+### Languages, Frameworks/Libraries and Tools I work with 🧑‍💻:
+
 <br>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="55px"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55px"/>   &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55px"/>
