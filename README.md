@@ -1,33 +1,6 @@
-## **Hello, I'm Swagatmitra Bhattacharya 🙋‍♂️**
-
-### About Me 🙂 : 
+### About Me 🙋‍♂️ : 
 
 *I'm currently a sophomore at the National Institute of Technology Silchar. I'm interested in <span style="color:lightgreen">Web Development</span>, <span style="color:red">Machine Learning</span> and the <span style="color:magenta">IoT domain</span>. I love learning and contributing to open source. You're always welcome to reach out to me!*
-
----
-
-### Languages, Frameworks/Libraries and Tools I work with 🧑‍💻: 
-
-<br>
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55px"/>][repo] &nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55px"/>][repo] &nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="55px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55px" style="border-radius:7px" />][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55px" />][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="55px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="55px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55px" style="background:lightgray;border-radius:7px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="55px"/>][repo]&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="55px"/>][repo]&nbsp;
-       
 ---
 ### Contact Me 🐬:
 
