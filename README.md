@@ -34,9 +34,9 @@
 
 <br>
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="55px" width="50px"/>][twitter]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="55px" width="50px"/>
 &nbsp;&nbsp; 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="55px"/>][linkedin]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="55px"/>
 
 
 [twitter]: https://twitter.com/swagatmitra
