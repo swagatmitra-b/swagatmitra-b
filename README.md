@@ -1,4 +1,4 @@
-### About Me 🙋‍♂️ : 
+### Hello! 🙋‍♂️ : 
 
 #### *I'm a freshman at the National Institute of Technology Silchar. I'm mostly interested in Web Development, Machine Learning, DevOps and the IoT domain. I love learning about computers and electronics and pretty much everything about science and technology piques my curiosity. I'm looking forward to actively involving myself in the open source community and growing as a developer. You're always welcome to reach out to me.*
 ---
