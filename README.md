@@ -2,7 +2,7 @@
 
 <br>
 
-[https://swagats-blog.netlify.app/](Blog)
+[Blog](https://swagats-blog.netlify.app/)
 
 <br>
 
