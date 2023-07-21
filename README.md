@@ -1,9 +1,6 @@
 ### Connect with Me 🐬:
-
 <br>
-
 #### [Blog :)](https://swagats-blog.netlify.app/)
-
 <br>
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="55px" width="50px"/>][twitter]
