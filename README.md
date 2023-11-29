@@ -8,7 +8,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="55px"/>][linkedin]
 
 [twitter]: https://twitter.com/swagatmitra
-[linkedin]: https://in.linkedin.com/in/swagatmitra-bhattacharya-572048254
+[linkedin]: https://in.linkedin.com/in/swagatmitrab
 
 
 
